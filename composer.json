@@ -1,12 +1,12 @@
 {
-    "name": "IoDigital/SnapScan",
+    "name": "io-digital/snap-scan",
     "type": "library",
     "description": "Laravel Wrapper for SnapScan",
     "keywords": [
         "IoDigital",
         "SnapScan"
     ],
-    "homepage": "https://github.com/IoDigital/SnapScan",
+    "homepage": "https://github.com/io-digital/snap-scan",
     "license": "MIT",
     "authors": [
         {
